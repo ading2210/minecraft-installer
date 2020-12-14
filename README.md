@@ -1,6 +1,6 @@
 # minecraft-installer
 
-This script installs Minecraft Java Edition 1.16.3 on a Raspberry Pi. 
+This script installs Minecraft Java Edition 1.16.3 (with Optifine) on a Raspberry Pi. 
 
 ## To install:
 1. Make sure the OpenGL driver is enabled
