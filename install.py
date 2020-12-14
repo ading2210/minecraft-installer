@@ -51,7 +51,7 @@ def editProfiles(name, version):
   json["selectedProfile"] = name
   file = open(homeDir+".minecraft/launcher_profiles.json", "w")
   file.write(str(json))
-  file.close
+  file.close()
 
 print("System architecture: "+str(bits)+" bit "+arch)
 
